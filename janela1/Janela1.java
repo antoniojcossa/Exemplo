@@ -8,7 +8,7 @@ public class Janela1 extends JFrame {
     JPanel painel1;
 
     public Janela1() {
-        setTitle("Janela Teste");
+        setTitle("Janela Princiapl");
         setSize(560, 300);
         setLocation(200, 200);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
