@@ -12,7 +12,7 @@ public class Janela1 extends JFrame {
         setSize(560, 300);
         setLocation(200, 200);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        b1 = new JButton("Boatao 1");
+        b1 = new JButton("Enviar");
         b2 = new JButton("Botao 2");
         painel1 = new JPanel();
         painel1.setLayout(new FlowLayout());
